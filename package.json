@@ -4,7 +4,8 @@
   "description": "",
   "main": "js.js",
   "scripts": {
-    "dev": "node js.js"
+    "dev": "node js.js",
+    "start": "node index"
   },
   "author": "van2011",
   "license": "ISC",
